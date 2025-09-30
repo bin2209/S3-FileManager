@@ -1,0 +1,11 @@
+product_id,product_name,category,price,stock_quantity,supplier
+P001,Laptop Computer,Electronics,999.99,50,TechCorp
+P002,Office Chair,Furniture,299.99,25,FurniturePlus
+P003,Coffee Maker,Appliances,89.99,100,HomeGoods
+P004,Wireless Mouse,Electronics,29.99,200,TechCorp
+P005,Desk Lamp,Furniture,49.99,75,LightingWorld
+P006,Notebook Set,Stationery,12.99,500,OfficeSupply
+P007,Water Bottle,Sports,19.99,150,SportingLife
+P008,Bluetooth Speaker,Electronics,79.99,80,SoundTech
+P009,Plant Pot,Garden,24.99,120,GreenThumb
+P010,USB Cable,Electronics,15.99,300,TechCorp

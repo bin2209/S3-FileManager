@@ -1,0 +1,11 @@
+vehicle_id,make,model,year,color,mileage,price,condition,dealer
+V001,Toyota,Camry,2022,Silver,15000,28500,Excellent,AutoWorld
+V002,Honda,Civic,2021,Blue,25000,24900,Good,CarLand
+V003,Ford,F-150,2023,Black,8000,42000,Excellent,TruckDepot
+V004,Chevrolet,Malibu,2020,Red,35000,22500,Good,AutoWorld
+V005,BMW,X3,2023,White,5000,55000,Excellent,LuxuryAutos
+V006,Audi,A4,2022,Gray,18000,38900,Excellent,LuxuryAutos
+V007,Nissan,Altima,2021,Blue,28000,23500,Good,CarLand
+V008,Mercedes,C-Class,2023,Black,3000,48500,Excellent,LuxuryAutos
+V009,Subaru,Outback,2022,Green,12000,32000,Excellent,OutdoorAutos
+V010,Jeep,Wrangler,2021,Orange,22000,35500,Good,AdventureVehicles

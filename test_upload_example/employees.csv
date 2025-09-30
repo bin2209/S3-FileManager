@@ -1,0 +1,11 @@
+id,name,email,department,salary,hire_date
+1,John Smith,john.smith@company.com,Engineering,75000,2023-01-15
+2,Sarah Johnson,sarah.johnson@company.com,Marketing,65000,2023-02-20
+3,Mike Davis,mike.davis@company.com,Sales,70000,2023-03-10
+4,Emily Wilson,emily.wilson@company.com,HR,60000,2023-04-05
+5,David Brown,david.brown@company.com,Engineering,80000,2023-05-12
+6,Lisa Garcia,lisa.garcia@company.com,Finance,72000,2023-06-18
+7,James Miller,james.miller@company.com,Marketing,68000,2023-07-22
+8,Amanda Taylor,amanda.taylor@company.com,Engineering,77000,2023-08-30
+9,Robert Anderson,robert.anderson@company.com,Sales,69000,2023-09-14
+10,Jennifer Martinez,jennifer.martinez@company.com,HR,63000,2023-10-01

@@ -1,0 +1,11 @@
+book_id,title,author,genre,publication_year,pages,price,publisher,isbn
+B001,The Great Adventure,John Author,Fiction,2023,320,14.99,BookWorld,978-1234567890
+B002,Science Explained,Dr. Smith,Science,2022,450,29.99,EduPress,978-1234567891
+B003,Cooking Mastery,Chef Maria,Cookbook,2024,280,24.99,CulinaryBooks,978-1234567892
+B004,History Unveiled,Prof. Johnson,History,2021,380,19.99,HistoryPress,978-1234567893
+B005,Digital Future,Tech Writer,Technology,2024,220,22.99,TechPublish,978-1234567894
+B006,Art Appreciation,Artist Kate,Art,2023,180,16.99,ArtBooks,978-1234567895
+B007,Business Strategy,MBA Expert,Business,2022,340,34.99,BizPress,978-1234567896
+B008,Health & Wellness,Dr. Brown,Health,2024,260,18.99,HealthyLife,978-1234567897
+B009,Travel Guide Europe,Travel Pro,Travel,2023,420,27.99,TravelBooks,978-1234567898
+B010,Mystery Novel,Mystery Author,Mystery,2024,300,15.99,ThrillerPress,978-1234567899

@@ -1,0 +1,11 @@
+student_id,first_name,last_name,grade,subject,score,test_date,teacher
+S001,Alex,Thompson,9,Mathematics,85,2024-01-15,Mr. Smith
+S002,Maria,Rodriguez,10,English,92,2024-01-16,Ms. Johnson
+S003,Kevin,Lee,11,Science,78,2024-01-17,Dr. Brown
+S004,Sophie,Anderson,9,History,88,2024-01-18,Mrs. Davis
+S005,Ryan,Wilson,12,Mathematics,95,2024-01-19,Mr. Smith
+S006,Emma,Garcia,10,English,91,2024-01-20,Ms. Johnson
+S007,Daniel,Martinez,11,Science,82,2024-01-21,Dr. Brown
+S008,Isabella,Taylor,9,History,86,2024-01-22,Mrs. Davis
+S009,Lucas,Brown,12,Mathematics,89,2024-01-23,Mr. Smith
+S010,Olivia,Jones,10,English,94,2024-01-24,Ms. Johnson

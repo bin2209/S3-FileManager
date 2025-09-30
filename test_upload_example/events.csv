@@ -1,0 +1,11 @@
+event_id,event_name,event_date,location,capacity,tickets_sold,price,organizer
+E001,Summer Music Festival,2024-06-15,Central Park,5000,4750,75.00,EventCorp
+E002,Tech Conference 2024,2024-07-20,Convention Center,1200,1150,299.99,TechEvents
+E003,Food & Wine Expo,2024-08-10,Downtown Arena,800,720,45.00,CulinaryShows
+E004,Art Gallery Opening,2024-09-05,Modern Art Museum,300,285,25.00,ArtWorld
+E005,Charity Run Marathon,2024-10-12,City Stadium,2000,1890,30.00,RunForGood
+E006,Comedy Night Special,2024-11-18,Laugh Club,150,142,40.00,FunnyEvents
+E007,Jazz Concert Evening,2024-12-03,Music Hall,600,578,65.00,JazzProductions
+E008,Holiday Market Fair,2024-12-20,Town Square,1000,950,15.00,HolidayFun
+E009,New Year Gala,2024-12-31,Grand Ballroom,400,387,150.00,CelebrationCorp
+E010,Winter Workshop Series,2025-01-15,Learning Center,50,48,85.00,SkillBuilder
