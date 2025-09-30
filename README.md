@@ -37,7 +37,7 @@ AWS_REGION=us-east-1
 S3_BUCKET_NAME=your-bucket-name
 
 # Server Configuration
-PORT=5001
+PORT=5000
 NODE_ENV=development
 ```
 
